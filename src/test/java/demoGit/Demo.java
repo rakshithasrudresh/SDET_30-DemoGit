@@ -39,6 +39,21 @@ public class Demo {
 		
 		
 		
+<<<<<<< HEAD
+=======
+		System.out.println("resolve");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+>>>>>>> branch 'master' of https://github.com/rakshithasrudresh/SDET_30-DemoGit.git
 		
 		
 		
