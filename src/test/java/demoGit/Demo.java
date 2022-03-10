@@ -9,6 +9,26 @@ public class Demo {
 	{
 		System.out.println("User 1-First Commit");
 		System.out.println("User 2-First commit");
+		System.out.println("this will arise conflict");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		
 		
 		
