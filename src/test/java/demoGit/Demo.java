@@ -11,6 +11,7 @@ public class Demo {
 		System.out.println("User 2-First commit");
 		System.out.println("this will arise conflict");
 		
+		System.out.println("pushing	 codee");
 		
 		
 		
@@ -39,8 +40,12 @@ public class Demo {
 		
 		
 		
-<<<<<<< HEAD
-=======
+		
+		
+		
+		
+		
+
 		System.out.println("resolve");
 		
 		
@@ -52,8 +57,6 @@ public class Demo {
 		
 		
 		
-		
->>>>>>> branch 'master' of https://github.com/rakshithasrudresh/SDET_30-DemoGit.git
 		
 		
 		
