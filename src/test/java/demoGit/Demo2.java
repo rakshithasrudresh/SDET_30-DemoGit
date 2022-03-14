@@ -34,6 +34,8 @@ System.out.println("merging");
 		
 		
 		System.out.println("push deploy code");
+		
+		System.out.println("updated");
 	}	
 
 }
