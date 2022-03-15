@@ -21,6 +21,7 @@ public static void main(String[] args)
 		else
 		{
 			System.out.print(s.charAt(i));
+			System.out.println(" ");
 		}
 	}	
 }
