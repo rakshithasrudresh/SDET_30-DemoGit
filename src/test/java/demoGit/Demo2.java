@@ -16,9 +16,15 @@ public class Demo2 {
 		
 		System.out.println("user 2---first");
 		
+
+		System.out.println("user 2---second");
 		System.out.println("user1---second");
 		
 		
+System.out.println("merging");
+
+
+
 		
 		
 		
@@ -28,6 +34,8 @@ public class Demo2 {
 		
 		
 		System.out.println("push deploy code");
+		
+		System.out.println("updated");
 	}	
 
 }
