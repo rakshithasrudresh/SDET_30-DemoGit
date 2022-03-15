@@ -22,6 +22,10 @@ public static void main(String[] args)
 		{
 			System.out.print(s.charAt(i));
 			System.out.println(" ");
+			
+			
+			
+			
 		}
 	}	
 }
